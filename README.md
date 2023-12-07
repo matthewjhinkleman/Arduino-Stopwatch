@@ -10,7 +10,7 @@ Instructions:
      Upload the code to your Arduino using a usb cable and Arduino IDE Software. Download the latest release here: https://github.com/gohawks413/Arduino-Stopwatch/releases. Once you have downloaded the zip file, unzip it and open the .ino file. If you have Arduino IDE installed it should open. If not please download it here: https://www.arduino.cc/en/software. Upload the code to your Arduino via USB cable and it should work. If not, please submit an issue in the Issues page of this respitory.
 
 3. Use it:
-   Press the left button (From the image above) to start and stop the stopwatch. Press the right button (From the image above) to reset the stopwatch. It will show a countdown
+   Press the right button (From the image above) to start and stop the stopwatch. Press the left button (From the image above) to reset the stopwatch. It will show a countdown and then reset the stopwatch.
 
 
 If you have any questions please put them in the Issues page in this respitory
